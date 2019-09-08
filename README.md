@@ -1,1 +1,1 @@
-[http://progbase.herokuapp.com/modules/webprogbase/tasks/lab1](webprogbase-lab1)
+[webprogbase-lab1](https://www.google.com)
