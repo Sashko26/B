@@ -1,0 +1,187 @@
+.menu
+{
+    border: 3px solid;
+    width: 780px;
+    position: absolute;
+    top:15px;
+    right: 0px;
+    font-size: 50px;
+    background-image: url("../images/backgroundForMenu.jpeg");
+}
+#logo
+{
+    border: 3px solid;
+    width: 150px;
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    border-radius: 75px;
+    background-color: blue;
+}
+#siteName
+{   
+    border: 3px solid;
+    width: 680px;
+    position: absolute;
+    font-size: 70px; 
+    top: 15px;
+    left: 250px;
+    background-image: url(../images/backgroundForMenu.jpeg);
+    color: white;
+}
+#hatOfHome
+{
+    border: 3px solid;
+    width : 100%;
+    height: 160px;
+    background-image: url(../images/backgroundForMenu.jpeg); 
+}
+#contentOfHome
+{
+    font-size: 40px;
+    COLOR: white;
+    border: 10px;
+    width: 900px;
+    border: 5px solid;
+    background-image: url(../images/backgroundForMenu.jpeg);
+    position: absolute;
+    left:430px;
+    top:300px;
+}
+
+html
+{
+    background-image: url(../images/generalBackground.jpg); 
+}
+#homer
+{
+    border: 3px;
+}
+#bender
+{
+    border: 3px;
+}
+#table
+{
+    position: absolute;
+    right: 450px;
+    top: 300px;
+}
+#userTable
+{
+    position: absolute;
+    left: 740px;
+    top: 200px;
+    font-size:50px;
+}
+#tableDiv
+{
+    font-size:25px;
+}
+#bioValentin
+{
+    border: 3px solid;
+    width: 900px;
+    position: absolute;
+    left: 500px;
+    top: 350px;
+    font-size: 25px;
+    background-image: url(../images/backgroundForMenu.jpeg); 
+    color: white
+}
+#HomerBioDiv
+{
+    border:3px solid;
+    width: 665px;
+    position: absolute;
+    left: 600px;
+    top: 400px;
+    font-size: 25px;
+    background-image: url(../images/backgroundForMenu.jpeg); 
+    color: white
+}
+#listOfposts
+{
+    position: absolute;
+    font-size: 50px;
+    left:500px;
+    top: 300px;
+}
+.country
+{
+    border: solid;
+    position: absolute;
+    top: 200px;
+    font-size: 25px;
+
+}
+
+#about
+{
+    border: 3px solid;
+    width: 900px; 
+    position: absolute;
+    top: 370px;
+    left: 500px;
+    font-size: 25px;
+    background-image: url(../images/backgroundForMenu.jpeg); 
+    color: white
+}
+#sellingCigar
+{
+    position: absolute;
+    top: 290px;
+    font-size: 25px;
+    border: 5px solid black;
+    background-image: url(../images/backgroundForMenu.jpeg); 
+    color: white;
+    width: 700px;
+    left: 550px;
+}
+#photoOfcigar
+{
+    position: absolute;
+    left: 548px;
+    top: 548px;
+    width:710px;
+    height:250px;
+    border: 3px solid black;
+}
+#benderCigar
+{
+    border: 3px solid black;
+}
+#usefulBeer
+{
+    position: absolute;
+    top: 290px;
+    font-size: 25px;
+    border: 5px solid black;
+    background-image: url(../images/backgroundForMenu.jpeg); 
+    color: white;
+    width: 700px;
+    left: 550px;
+}
+#findMeggi
+{
+    background-image: url(../images/backgroundForMenu.jpeg);
+    font-size: 25px;
+    color:white;
+    width: 700px;
+    position: absolute;
+    left: 600px;
+    top: 270px;
+    border: 3px solid black;
+}
+#photoOfMeggi
+{
+    position: absolute;
+    top: 585px;
+    left: 600px;
+    width: 700px;
+    border: solid 3px black;
+}
+
+
+
+
